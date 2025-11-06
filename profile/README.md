@@ -29,8 +29,8 @@ In diesem Modul lernen Sie mit einem projektbasierten Hands-On Approach das Them
 
 ### MB01 - Einführung in IoT
 
-- [Modulübersicht](https://github.com/IT-A-23H-27H/MB01/moduluebersicht.pdf)
-- [Geschichte des IoT](https://github.com/IT-A-23H-27H/MB01/gescchichte-des-iot.pdf)
+- [Modulübersicht](https://github.com/IT-A-23H-27H/MB01/blob/main/moduluebersicht.pdf) 
+- [Geschichte des IoT](https://github.com/IT-A-23H-27H/MB01/blob/main/gescchichte-des-iot.pdf)
 - [The "Only" Coke Machine on the Internet](https://github.com/IT-A-23H-27H/MB01/blob/main/coke-machine.md)
 - [The Computer for the 21st Century](https://lernen.zbw.ch/pluginfile.php/86923/mod_resource/content/1/Weiser-SciAm.pdf)
 - [Rechercheauftrag IoT Referenzarchitektur](https://github.com/IT-A-23H-27H/MB01/blob/main/iot-referenz-architektur.md)
