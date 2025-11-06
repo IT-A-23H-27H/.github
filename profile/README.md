@@ -33,7 +33,7 @@ In diesem Modul lernen Sie mit einem projektbasierten Hands-On Approach das Them
 - [Geschichte des IoT](https://github.com/IT-A-23H-27H/MB01/gescchichte-des-iot.pdf)
 - [The "Only" Coke Machine on the Internet](https://github.com/IT-A-23H-27H/MB01/blob/main/coke-machine.md)
 - [The Computer for the 21st Century](https://lernen.zbw.ch/pluginfile.php/86923/mod_resource/content/1/Weiser-SciAm.pdf)
-- [Rechercheauftrag IoT Referenzarchitektur](https://github.com/IT-A-23H-27H/MB01/blob/main/iot-referenz-architektur.md))
+- [Rechercheauftrag IoT Referenzarchitektur](https://github.com/IT-A-23H-27H/MB01/blob/main/iot-referenz-architektur.md)
 - [Brainstorming Automatisierungsfunktionalitäten](https://github.com/IT-A-23H-27H/MB01/blob/main/brainstorming.md)
 
 
