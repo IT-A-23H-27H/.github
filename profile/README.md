@@ -32,8 +32,24 @@ In diesem Modul lernen Sie mit einem projektbasierten Hands-On Approach das Them
 - [Modulübersicht](https://github.com/IT-A-23H-27H/MB01/blob/main/moduluebersicht.pdf) 
 - [Geschichte des IoT](https://github.com/IT-A-23H-27H/MB01/blob/main/geschichte-des-iot.pdf)
 - [The "Only" Coke Machine on the Internet](https://github.com/IT-A-23H-27H/MB01/blob/main/coke-machine.md)
-- [The Computer for the 21st Century](https://lernen.zbw.ch/pluginfile.php/86923/mod_resource/content/1/Weiser-SciAm.pdf)
+- [The Computer for the 21st Century](https://lernen.zbw.ch/pluginfile.php/86923/mod_resource/c[ontent/1/Weiser-SciAm.pdf)
 - [Rechercheauftrag IoT Referenzarchitektur](https://github.com/IT-A-23H-27H/MB01/blob/main/iot-referenz-architektur.md)
 - [Brainstorming Automatisierungsfunktionalitäten](https://github.com/IT-A-23H-27H/MB01/blob/main/brainstorming.md)
+
+### MB02 - Shallow Dive Embedded Systems
+
+- [Shallow Dive Embedded Systems](https://github.com/IT-A-23H-27H/MB02/blob/main/shallow-dive.pdf) 
+- [Auftrag LED-Board Simulator](https://github.com/IT-A-23H-27H/led-board-simulator)
+- [Get started with Arduino and ESP32-DevKitC: debugging and unit testing](https://docs.platformio.org/en/latest/tutorials/espressif32/arduino_debugging_unit_testing.html)
+- Learn C:
+  - [Variables and Tyoes](https://www.learn-c.org/de/Variables%20and%20Types)
+  - [Arrays](https://www.learn-c.org/de/Arrays)
+  - [Strings](https://www.learn-c.org/de/Strings)
+  - [Functions](https://www.learn-c.org/de/Functions)
+  - [For loops](https://www.learn-c.org/de/Functions) & [While loops](https://www.learn-c.org/de/While%20loops)
+- [Auftrag LED-Board Esp32](https://github.com/IT-A-23H-27H/led-board-esp32)
+- [Was Mikrocontroller von Mikroprozessoren unterscheidet](https://lernen.zbw.ch/pluginfile.php/87510/mod_resource/content/1/Was%20Mikrocontroller%20von%20Mikroprozessoren%20unterscheidet%20_%20ct%20Magazin.pdf)
+
+
 
 
