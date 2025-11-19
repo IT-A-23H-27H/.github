@@ -38,7 +38,7 @@ In diesem Modul lernen Sie mit einem projektbasierten Hands-On Approach das Them
 
 ### MB02 - Shallow Dive Embedded Systems
 
-- [Shallow Dive Embedded Systems](https://github.com/IT-A-23H-27H/MB02/blob/main/shallow-dive.pdf) 
+- [Shallow Dive Embedded Systems](https://github.com/IT-A-23H-27H/MB02/blob/main/shallow-dive-embedded-systems.pdf) 
 - [Auftrag LED-Board Simulator](https://github.com/IT-A-23H-27H/led-board-simulator)
 - [Get started with Arduino and ESP32-DevKitC: debugging and unit testing](https://docs.platformio.org/en/latest/tutorials/espressif32/arduino_debugging_unit_testing.html)
 - Learn C:
