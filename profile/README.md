@@ -50,6 +50,10 @@ In diesem Modul lernen Sie mit einem projektbasierten Hands-On Approach das Them
 - [Auftrag LED-Board Esp32](https://github.com/IT-A-23H-27H/led-board-esp32)
 - [Was Mikrocontroller von Mikroprozessoren unterscheidet](https://lernen.zbw.ch/pluginfile.php/87510/mod_resource/content/1/Was%20Mikrocontroller%20von%20Mikroprozessoren%20unterscheidet%20_%20ct%20Magazin.pdf)
 
+### MB03 - Tour de C/C++
+
+- [Tour de C/C++](https://github.com/IT-A-23H-27H/MB03/blob/main/tour-de-c-cpp.pdf) 
+
 
 
 
