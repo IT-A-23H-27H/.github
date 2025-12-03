@@ -52,7 +52,11 @@ In diesem Modul lernen Sie mit einem projektbasierten Hands-On Approach das Them
 
 ### MB03 - Tour de C/C++
 
-- [Tour de C/C++](https://github.com/IT-A-23H-27H/MB03/blob/main/tour-de-c-cpp.pdf) 
+- [Tour de C/C++](https://github.com/IT-A-23H-27H/MB03/blob/main/tour-de-c-cpp.pdf)
+- [C/C++ Source and Header Templates](https://github.com/IT-A-23H-27H/c-cpp-file-templates)
+- [C/C++ Integer Types](https://cplusplus.com/reference/cstdint/)
+- [C++ Arrays](https://cplusplus.com/reference/array/array/)
+- [The C++ Standard](https://isocpp.org/std/the-standard)
 
 
 
