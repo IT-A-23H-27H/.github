@@ -22,8 +22,9 @@ In diesem Modul lernen Sie mit einem projektbasierten Hands-On Approach das Them
   
 ## Leistungsnachweis
 
+- **Abgabedatum**: Freitag, 13. März 2026, 23:59
 - [Ausgangslage](https://github.com/IT-A-23H-27H/info/blob/main/Ausgangslage.md)
-- [Portfolio-Leitfaden](https://lernen.zbw.ch/pluginfile.php/144980/mod_resource/content/2/IoTW%20-%20Leitfaden%20-%207%20-%20wip.pdf)
+- [Portfolio-Leitfaden](https://lernen.zbw.ch/pluginfile.php/144980/mod_resource/content/6/Leitfaden%202026.pdf)
 
 ## Modulblöcke
 
