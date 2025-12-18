@@ -59,6 +59,11 @@ In diesem Modul lernen Sie mit einem projektbasierten Hands-On Approach das Them
 - [C++ Arrays](https://cplusplus.com/reference/array/array/)
 - [The C++ Standard](https://isocpp.org/std/the-standard)
 
+### MB04 - State Machines & Systementwurf
+
+- [State Machines & Systementwurf](https://github.com/IT-A-23H-27H/MB04/blob/main/fsms-und-systementwurf.pdf)
+- [Auftrag FSM Garagentor](https://github.com/IT-A-23H-27H/fsm-esp32)
+
 
 
 
