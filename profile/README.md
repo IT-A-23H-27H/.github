@@ -64,6 +64,8 @@ In diesem Modul lernen Sie mit einem projektbasierten Hands-On Approach das Them
 
 - [State Machines & Systementwurf](https://github.com/IT-A-23H-27H/MB04/blob/main/fsms-und-systementwurf.pdf)
 - [Auftrag FSM Garagentor](https://github.com/IT-A-23H-27H/fsm-esp32)
+- [Umlet - Leichtgewichtiges Tool für FSM-Modellierung und andere UML-Diagramme](https://www.umlet.com/)
+- [PlantUML - Opensource Plain-Text-To-Diagram Visualisierungstool für UML und andere Diagramme](https://plantuml.com/)
 
 
 
