@@ -67,6 +67,14 @@ In diesem Modul lernen Sie mit einem projektbasierten Hands-On Approach das Them
 - [Umlet - Leichtgewichtiges Tool für FSM-Modellierung und andere UML-Diagramme](https://www.umlet.com/)
 - [PlantUML - Opensource Plain-Text-To-Diagram Visualisierungstool für UML und andere Diagramme](https://plantuml.com/)
 
+### MB05 - Einführung MQTT
+
+- [MQTT](https://github.com/IT-A-23H-27H/MB05/blob/main/mqtt.pdf)
+- [Auftrag MQTT](https://github.com/IT-A-23H-27H/mqtt-esp32)
+- [Mosquitto MQTT Broker](https://mosquitto.org/download/)
+- [Mosquitto MQTT Broker Config](https://github.com/IT-A-23H-27H/mosquitto-config/)
+- [MQTT Explorer](https://mqtt-explorer.com)
+
 
 
 
