@@ -11,6 +11,8 @@ In diesem Modul lernen Sie mit einem projektbasierten Hands-On Approach das Them
     - [Installation](https://platformio.org/install/ide?install=vscode)
 - [git](https://git-scm.com)
 - [GitHub](https://github.com/IT-A-23H-27H/)
+- [Mosquitto MQTT Broker](https://mosquitto.org/)
+- [MQTT Explorer](https://mqtt-explorer.com)
     
 - Hardware
   - 1 x [SparkFun MicroMod ESP32 Core](https://www.sparkfun.com/sparkfun-micromod-esp32-processor.html)
@@ -22,10 +24,13 @@ In diesem Modul lernen Sie mit einem projektbasierten Hands-On Approach das Them
   
 ## Leistungsnachweis
 
-- **Abgabedatum**: Freitag, 13. März 2026, 23:59
-- **Zwischenabgabe**: bis Mittwoch, 21. Januar 2026, 23:59 in Branch zwischenabgabe
 - [Ausgangslage](https://github.com/IT-A-23H-27H/info/blob/main/Ausgangslage.md)
 - [Portfolio-Leitfaden](https://lernen.zbw.ch/pluginfile.php/144980/mod_resource/content/6/Leitfaden%202026.pdf)
+
+## Termine
+
+- **Abgabe Portfolio**: Freitag, 13. März 2026, 23:59
+- **Freiwillige Zwischenabgabe**: bis Sonnatg, 25. Januar 2026, 23:59, in Branch ´zwischenabgabe´
 
 ## Modulblöcke
 
