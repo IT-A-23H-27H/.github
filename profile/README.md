@@ -2,7 +2,7 @@
 
 Herzlich willkommen zum IoT Workshop!
 
-In diesem Modul lernen Sie mit einem projektbasierten Hands-On Approach das Thema "Internet of Things" etwas näher kennen. Sie arbeiten in Gruppen an einem Projekt, welches verschiedene Themen triggern wird, die wir teilweise im Unterricht, teilweise aber auch im Selbststudium vertiefen.
+In diesem Modul lernen Sie mit einem projektbasierten Hands-On Approach das Thema **Internet of Things** etwas näher kennen. Sie arbeiten in Gruppen an einem Projekt, welches verschiedene Themen triggern wird, die wir teilweise im Unterricht, teilweise aber auch im Selbststudium vertiefen.
 
 ## Tools
 
@@ -30,7 +30,7 @@ In diesem Modul lernen Sie mit einem projektbasierten Hands-On Approach das Them
 ## Termine
 
 - **Abgabe Portfolio**: Freitag, 13. März 2026, 23:59
-- **Freiwillige Zwischenabgabe**: bis Sonnatg, 25. Januar 2026, 23:59, in Branch ´zwischenabgabe´
+- **Freiwillige Zwischenabgabe**: bis Sonnatg, 25. Januar 2026, 23:59, in Branch `zwischenabgabe`
 
 ## Modulblöcke
 
