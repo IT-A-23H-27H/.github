@@ -79,6 +79,7 @@ In diesem Modul lernen Sie mit einem projektbasierten Hands-On Approach das Them
 - [Mosquitto MQTT Broker](https://mosquitto.org/download/)
 - [Mosquitto MQTT Broker Config](https://github.com/IT-A-23H-27H/mosquitto-config/)
 - [MQTT Explorer](https://mqtt-explorer.com)
+- [Blogserie über MQTT von HiveMQ](https://www.hivemq.com/mqtt/)
 
 
 
