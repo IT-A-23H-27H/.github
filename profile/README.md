@@ -81,6 +81,14 @@ In diesem Modul lernen Sie mit einem projektbasierten Hands-On Approach das Them
 - [MQTT Explorer](https://mqtt-explorer.com)
 - [Blogserie über MQTT von HiveMQ](https://www.hivemq.com/mqtt/)
 
+## MB06 – MQTT-Authentifizierung & Topic-Modellierung
+- [Authentifizierung, Authorisierung und Topic-Modellierung](https://github.com/IT-A-23H-27H/MB06/blob/main/mqtt_auth_topic.pdf)
+- [Auftrag MQTT-Authentifizierung](https://github.com/IT-A-23H-27H/mosquitto-auth-config/)
+- [Mosquitto Authentifizierungsmethoden](https://mosquitto.org/documentation/authentication-methods/)
+- [Mosquitto Publish](https://mosquitto.org/man/mosquitto_pub-1.html) & [Mosquitto Subscribe](https://mosquitto.org/man/mosquitto_sub-1.html) Man Pages
+- [Auftrag Simulierter Sensor](https://github.com/IT-A-23H-27H/mqtt-sim-esp32/)
+- [SpiegelMining - Reverse Enineering von Spiegel-Online](https://media.ccc.de/v/33c3-7912-spiegelmining_reverse_engineering_von_spiegel-online)
+
 
 
 
