@@ -89,6 +89,10 @@ In diesem Modul lernen Sie mit einem projektbasierten Hands-On Approach das Them
 - [Auftrag Simulierter Sensor](https://github.com/IT-A-23H-27H/mqtt-sim-esp32/)
 - [SpiegelMining - Reverse Enineering von Spiegel-Online](https://media.ccc.de/v/33c3-7912-spiegelmining_reverse_engineering_von_spiegel-online)
 
+## MB07 – Kryptographie und Embedded-Security
+- [Kryptographie und Embedded-Security](https://github.com/IT-A-23H-27H/MB07/blob/main/crypto_embedded.pdf)
+- [The DJI Romo robovac had security so poor, this man remotely accessed thousands of them](https://www.theverge.com/tech/879088/dji-romo-hack-vulnerability-remote-control-camera-access-mqtt)
+
 
 
 
