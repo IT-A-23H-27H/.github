@@ -92,6 +92,8 @@ In diesem Modul lernen Sie mit einem projektbasierten Hands-On Approach das Them
 ## MB07 – Kryptographie und Embedded-Security
 - [Kryptographie und Embedded-Security](https://github.com/IT-A-23H-27H/MB07/blob/main/crypto_embedded.pdf)
 - [The DJI Romo robovac had security so poor, this man remotely accessed thousands of them](https://www.theverge.com/tech/879088/dji-romo-hack-vulnerability-remote-control-camera-access-mqtt)
+- [IoT Security Breaches: 4 Real-World Examples](https://conosco.com/industry-insights/blog/iot-security-breaches-4-real-world-examples)
+- [Sicherheitslücke im LTE-Netz](https://it-service.network/blog/2018/07/06/sicherheitsluecke-lte-netz/)
 
 
 
