@@ -96,7 +96,8 @@ In diesem Modul lernen Sie mit einem projektbasierten Hands-On Approach das Them
 - [Sicherheitslücke im LTE-Netz](https://it-service.network/blog/2018/07/06/sicherheitsluecke-lte-netz/)
 
 ## MB08 – Device Lifecycle & Fleet Management
-- [Device Lifecycle & Fleet Management(https://github.com/IT-A-23H-27H/MB08/blob/main/lifecycle_fleet.pdf)
+- [Device Lifecycle & Fleet Management](https://github.com/IT-A-23H-27H/MB08/blob/main/lifecycle_fleet.pdf)
+- [Auftrag Cloud-Kostenschätzung](https://github.com/IT-A-23H-27H/cloud-cost)
 
 
 
