@@ -98,6 +98,7 @@ In diesem Modul lernen Sie mit einem projektbasierten Hands-On Approach das Them
 ## MB08 – Device Lifecycle & Fleet Management
 - [Device Lifecycle & Fleet Management](https://github.com/IT-A-23H-27H/MB08/blob/main/lifecycle_fleet.pdf)
 - [Auftrag Cloud-Kostenschätzung](https://github.com/IT-A-23H-27H/cloud-cost)
+- [Kursevaluation](https://norad32.limesurvey.net/512445?lang=de&newtest=Y)
 
 
 
