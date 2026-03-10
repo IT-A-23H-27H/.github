@@ -95,6 +95,10 @@ In diesem Modul lernen Sie mit einem projektbasierten Hands-On Approach das Them
 - [IoT Security Breaches: 4 Real-World Examples](https://conosco.com/industry-insights/blog/iot-security-breaches-4-real-world-examples)
 - [Sicherheitslücke im LTE-Netz](https://it-service.network/blog/2018/07/06/sicherheitsluecke-lte-netz/)
 
+## MB08 – Device Lifecycle & Fleet Management
+- [Device Lifecycle & Fleet Management(https://github.com/IT-A-23H-27H/MB08/blob/main/lifecycle_fleet.pdf)
+
+
 
 
 
